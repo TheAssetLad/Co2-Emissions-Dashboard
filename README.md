@@ -1,10 +1,14 @@
 python-dashboard-panel
 
 Interactive visualization dashboard in Python with Panel
+
 Graph 1:Co2 Per continent
+
 Graph 2: More data per continent 
-Graph 3: CorrelationL Co2 and GDP per Capita
-Graph 4: Co2 sources per Continent
+
+Graph 3: Correlation Co2 and GDP per Capita
+
+Graph 4: Co2 sources per continent
 
 
 To serve the dashboard locally, use the command:
